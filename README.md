@@ -54,6 +54,7 @@ Mathematics enthusiast on a journey to a BSc degree. Crafting the digital world 
  <summary><h3>👨‍💻 hossain45's Coding Journey</h3></summary>
   In the story of my life, 'ENGINEERING' has been the main character since my school days—a dream that set the stage for what I wanted to be. But, as life loves to surprise us, it took a detour. Amidst the pandemic, I found myself diving into freelance writing, a twist I never saw coming.
 
+
 Once, I heard a wise person saying, 'Passion is not found but built.' Well, I took that to heart. During the chaotic times, I dipped my toes into freelance content creation, crafting my passion word by word. And guess what? This winding journey led me to the fascinating world of WEB DEVELOPMENT.
 
 Being a math enthusiast, I started enjoying the rhythmic dance of coding. I stumbled upon a new groove—a perfect mix of creativity and logic. Now, here I am, waving the flag as a web developer. A testament to dreams evolving and passions being homegrown.
