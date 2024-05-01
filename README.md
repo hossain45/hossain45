@@ -2,7 +2,7 @@
 
 **`Crafting Excellence in Every Line (Developer/ Contributor)`**
 
-Mathematics enthusiast on a journey to a BSc degree. Crafting the digital world as a MERN stack developer. Constantly curious and eager to learn. #MERNstackdeveloper 
+Mathematics enthusiast on a journey to a BSc degree. Crafting the digital world as a Front-End developer. Constantly curious and eager to learn. #frontenddeveloper 
 
 ---
 
