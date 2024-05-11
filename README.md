@@ -30,6 +30,9 @@ Mathematics enthusiast on a journey to a BSc degree. Crafting the digital world 
 
 
 <!-- BEGIN BLOG-CARDS -->
+<a href="https://dev.to/hossain45/implementing-react-forwardref-with-typescript-5ka">
+  <img src="https://i.ibb.co/d6DyfT1/Hossain45.png" width="300" height="200"  alt="how to use react.forwardRef() in react-typeScript">
+</a>
 <a href="https://dev.to/hossain45/unleashing-typescripts-power-exploring-key-concepts-with-real-world-examples-55p9">
   <img src="https://i.ibb.co/CWHRfTM/Unleashing-Type-Scripts-Power-Exploring-Key-Concepts-with-Real-World-Examples.png" width="300" height="200"  alt="TailwindCSS Not Working in React-TypeScript Project with Vite">
 </a>
