@@ -30,6 +30,10 @@ Mathematics enthusiast on a journey to a BSc degree. Crafting the digital world 
 
 
 <!-- BEGIN BLOG-CARDS -->
+<a href="https://dev.to/hossain45/how-to-persist-user-info-using-redux-persist-with-typescript-54g9">
+  <img src="https://i.ibb.co/729Y2MC/redux-persist.png" width="300" height="140"  alt="How to Persist User Info Using Redux Persist with TypeScript
+">
+</a>
 <a href="https://dev.to/hossain45/implementing-react-forwardref-with-typescript-5ka">
   <img src="https://i.ibb.co/d6DyfT1/Hossain45.png" width="300" height="140"  alt="how to use react.forwardRef() in react-typeScript">
 </a>
